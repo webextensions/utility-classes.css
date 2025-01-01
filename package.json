@@ -1,0 +1,33 @@
+{
+    "name": "utility-classes.css",
+    "version": "0.0.0",
+    "description": "CSS utility classes",
+    "engines": {
+        "node": ">=18"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Warn: no test specified\"",
+        "start": "./index.js"
+    },
+    "author": "https://www.webextensions.org/",
+    "bugs": {
+        "url": "https://github.com/webextensions/utility-classes.css/issues"
+    },
+    "homepage": "https://github.com/webextensions/utility-classes.css",
+    "keywords": [
+        "CSS",
+        "utility",
+        "classes",
+        "styles",
+        "helper"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/webextensions/utility-classes.css.git"
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "license": "MIT"
+}
