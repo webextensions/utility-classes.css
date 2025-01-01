@@ -1,6 +1,6 @@
 {
     "name": "utility-classes.css",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "CSS utility classes",
     "engines": {
         "node": ">=18"
